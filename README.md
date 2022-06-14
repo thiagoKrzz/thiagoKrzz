@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Thiago
+- 👀 Estou interessado em programaçâo
+- 🌱 Iniciante em programaçâo ...
+- 📫 Contato (@thiago.krzyzanovski.santos@escola.pr.gov.br)
